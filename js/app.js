@@ -1,3 +1,4 @@
+/*
 //Header fixed
 
 window.onscroll = function () {
@@ -179,3 +180,5 @@ window.onload = load();
 //Footer Year 
 var year = document.getElementById("year");
 year.innerHTML = new Date().getFullYear();
+
+*/
